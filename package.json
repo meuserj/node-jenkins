@@ -7,6 +7,7 @@
     "./lib"
   ],
   "dependencies": {
+    "jenkins": "github:meuserj/node-jenkins",
     "papi": "^1.1.0"
   },
   "devDependencies": {
