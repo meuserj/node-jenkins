@@ -8,7 +8,7 @@
   ],
   "dependencies": {
     "jenkins": "github:meuserj/node-jenkins",
-    "papi": "^1.1.0"
+    "papi": "github:meuserj/node-papi"
   },
   "devDependencies": {
     "async": "^3.2.4",
